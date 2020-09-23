@@ -1,1 +1,1 @@
-# Angular-App-on--Microsoft-Azure
+# Angular-App-on-Microsoft-Azure
